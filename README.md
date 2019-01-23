@@ -18,6 +18,8 @@ Here is a game build my me using python named zombie Kill this game is build usi
 This game is a small python game that is based on killing zombies. it is a static and simple game that I have build using core phython and its modules.
 
 
+# Fork was refactored into OOP, menu added, blood added - 0x00AC1D
+
 ##ScreenShots
 
 
